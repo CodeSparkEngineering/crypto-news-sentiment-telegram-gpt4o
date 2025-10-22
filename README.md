@@ -32,7 +32,7 @@ A structured response is sent back to the user via Telegram.
 ⚙️ Setup Instructions
 
 Clone the repository:
-Shellgit clone https://github.com/yourusername/crypto-news-sentiment-telegram-gpt4o.gitShow more lines
+Shellgit clone https://github.com/CodeSparkEngineering/crypto-news-sentiment-telegram-gpt4o.gitShow more lines
 
 Import the workflow into your n8n instance.
 Set up your OpenAI and Telegram credentials.
@@ -50,4 +50,4 @@ Positive: Analysts predict bullish momentum.
 - Bitcoin Magazine: [link]
 
 📬 Contact
-For questions or suggestions, feel free to open an issue or reach out via [your contact info].
+For questions or suggestions, feel free to open an issue or reach out via CodeSparkEngineering.
