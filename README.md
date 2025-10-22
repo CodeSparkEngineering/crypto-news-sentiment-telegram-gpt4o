@@ -32,8 +32,8 @@ A structured response is sent back to the user via Telegram.
 ⚙️ Setup Instructions
 
 Clone the repository:
-Shellgit clone https://github.com/CodeSparkEngineering/crypto-news-sentiment-telegram-gpt4o.gitShow more lines
-
+Shellgit clone [https://github.com/CodeSparkEngineering/crypto-news-sentiment-telegram-gpt4o.gitShow more lines
+](https://github.com/CodeSparkEngineering/crypto-news-sentiment-telegram-gpt4o)
 Import the workflow into your n8n instance.
 Set up your OpenAI and Telegram credentials.
 Deploy and start the Telegram bot.
